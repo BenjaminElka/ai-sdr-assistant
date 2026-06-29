@@ -1,0 +1,40 @@
+# AI SDR Assistant
+
+An AI-powered Sales Development Representative (SDR) assistant built with Python, Streamlit, and the OpenAI API.
+
+## Features
+
+- 🔍 Prospect and company research
+- ✉️ Personalized cold email generation
+- 💼 LinkedIn outreach message generation
+- 📞 Sales call opener generation
+- 📧 Follow-up email sequences
+- 📊 Lead qualification scoring
+- 📝 CRM-ready prospect summaries
+
+## Tech Stack
+
+- Python
+- Streamlit
+- OpenAI API
+- Git
+- GitHub
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Future Improvements
+
+- CRM integrations (HubSpot/Salesforce)
+- Multi-language support
+- Email sending automation
+- Analytics dashboard
+- AI conversation memory
+
+## Author
+
+Benjamin Elkabas
